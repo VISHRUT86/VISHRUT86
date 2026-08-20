@@ -132,6 +132,18 @@ An AI-powered conversational web application built with a modern frontend and ba
 </picture>
 
 </div>
+
+
+## `> contribution_network`
+
+<div align="center">
+
+<img
+  src="./assets/neural-network.svg"
+  alt="Animated Neural Contribution Network"
+/>
+
+</div>
 ---
 
 ## `> achievements`
