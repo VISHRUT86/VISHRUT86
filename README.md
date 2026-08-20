@@ -120,7 +120,6 @@ An AI-powered conversational web application built with a modern frontend and ba
 />
 
 </div>
-
 ---
 
 ## `> achievements`
