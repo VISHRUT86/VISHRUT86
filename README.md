@@ -114,10 +114,22 @@ An AI-powered conversational web application built with a modern frontend and ba
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/VISHRUT86/VISHRUT86/output/github-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VISHRUT86/VISHRUT86/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VISHRUT86/VISHRUT86/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/VISHRUT86/VISHRUT86/output/pacman-contribution-graph-dark.svg"
+  />
+</picture>
 
 </div>
 ---
