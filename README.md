@@ -1,27 +1,162 @@
-# 💫 About Me:
-👋 Hi, I'm a passionate student and aspiring software developer from India 🇮🇳  <br><br>💻 I enjoy building projects using **C++, JavaScript, and Web Technologies**  <br>📊 Currently focusing on **Data Structures & Algorithms (DSA)** for placements  <br>🌱 Learning and improving every day by solving problems and building real-world projects  <br><br>🤝 I’m open to collaborating on **Web Apps, Open Source, and Beginner-friendly Projects**  <br>💬 Ask me about **DSA, C++, GitHub, or Student Tech Projects**  <br><br>⚡ Fun fact: I believe consistency beats talent 🚀<br>
+<div align="center">
 
+# Vishrut Bharti
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishrut-bharti-17aa842a6) 
+### Software Developer · Problem Solver · Builder
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VISHRUT86&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VISHRUT86&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHRUT86&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+Data+Structures+%26+Algorithms;Building+Full-Stack+Applications;Learning.+Building.+Improving.+Repeating." />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VISHRUT86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://www.linkedin.com/in/vishrut-bharti-17aa842a6">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VISHRUT86&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/VISHRUT86">
+  <img src="https://img.shields.io/badge/GitHub-VISHRUT86-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VISHRUT86&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+```text id="rv57uh"
+Name       : Vishrut Bharti
+Role       : Student & Aspiring Software Developer
+Focus      : DSA • Problem Solving • Full-Stack Development
+Currently  : Building projects and preparing for placements
+Mindset    : Consistency > Talent
+```
+
+---
+
+## `> currently_working_on`
+
+* Strengthening **Data Structures & Algorithms**
+* Solving problems and improving **problem-solving skills**
+* Building **full-stack web applications**
+* Exploring **backend development and scalable systems**
+* Preparing for **software engineering opportunities**
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,postman,vite&perline=9" />
+
+</div>
+
+---
+
+## `> featured_projects`
+
+### 🔐 ESP32 Face Recognition Door Lock
+
+A smart security system that combines **ESP32-CAM and OpenCV** for real-time face detection, recognition, and automated door access.
+
+**Stack**
+
+`ESP32-CAM` `OpenCV` `Python` `Arduino` `Relay Module`
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 💰 Finance Tracker
+
+A full-stack application designed to help users manage income, expenses, savings goals, and financial activity.
+
+**Stack**
+
+`MongoDB` `Express.js` `Node.js` `JavaScript`
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🤖 AI Chatbot
+
+An AI-powered conversational web application built with a modern frontend and backend architecture.
+
+**Stack**
+
+`React` `Node.js` `Gemini API`
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+## `> github_analytics`
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/VISHRUT86?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/VISHRUT86?style=for-the-badge&logo=github&label=GitHub%20Stars" />
+
+<img src="https://img.shields.io/github/commit-activity/y/VISHRUT86/VISHRUT86?style=for-the-badge&logo=git&label=Commit%20Activity" />
+
+</div>
+
+---
+
+## `> contribution_graph`
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/VISHRUT86/VISHRUT86/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+## `> achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VISHRUT86&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vishrut-bharti-17aa842a6">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+  
+
+<a href="https://github.com/VISHRUT86">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Small progress every day eventually leads to big results."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VISHRUT86&label=Profile%20Views&style=flat-square" />
+
+</div>
